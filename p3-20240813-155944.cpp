@@ -14,28 +14,3 @@ int main()
   cout<<" Area = "<<Area;
   return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
